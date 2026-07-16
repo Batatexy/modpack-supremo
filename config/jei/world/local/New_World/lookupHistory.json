@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_sa:zinc_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:brass_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exposure:lightroom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spyglass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedcore:xp_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
