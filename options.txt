@@ -143,6 +143,10 @@ key_key.modernfix.config:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
+key_key.ok_zoomer.zoom:key.keyboard.c
+key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
+key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
+key_key.ok_zoomer.reset_zoom:key.keyboard.unknown
 key_key.tempad.shortcut:key.keyboard.unknown
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown
@@ -253,7 +257,7 @@ key_key.open_muffler_gui:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:0.25248344370860926
+soundCategory_master:0.10596026490066225
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -263,7 +267,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-modelPart_cape:false
+modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true
