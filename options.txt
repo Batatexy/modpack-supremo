@@ -140,6 +140,8 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
+key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
@@ -191,6 +193,9 @@ key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.bloxyskills.open_skills:key.keyboard.g
+key_key.punchy.open_main_menu:key.keyboard.f8
+key_key.punchy.inspect:key.keyboard.i
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
