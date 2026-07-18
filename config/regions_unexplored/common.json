@@ -719,7 +719,7 @@
     // Re-enables the recipes of the legacy Painted Plank blocks
     "painted_planks": false,
     // Oak trees with thin fence-like log blocks will generate in some forests
-    "small_oak_trees": false
+    "small_oak_trees": true
   },
   "vanilla_changes": {
     // Saguaro Cactis will generate in Badlands and Woodland Badlands.
@@ -735,7 +735,7 @@
     // Orange Coneflower patches will generate in Birch Forests.
     "birch_orange_coneflowers": true,
     // Grass Sprouts will generate alongside Short Grass in most biomes.
-    "common_grass_sprouts": true,
+    "common_grass_sprouts": false,
     // Shrubs will generate in a variety of biomes.
     "common_shrubs": true,
     // Sandy Grass will generate in Deserts.
@@ -759,7 +759,7 @@
     // Small bushes will generate in Savannas.
     "savanna_bushes": true,
     // Frozen Grass will generate in snowy biomes.
-    "snowy_frozen_grass": true,
+    "snowy_frozen_grass": false,
     // Cattails will generate in Swamp and Mangrove Swamps.
     "swamp_cattails": true,
     // Swamps will generate with rooted Willow and Oak trees.

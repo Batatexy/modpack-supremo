@@ -1,0 +1,16 @@
+#Enabled tools by resource location pattern (regex).
+enabledToolsID = []
+#Enabled tools by fully qualified class name (must extend Item).
+enabledToolsClass = ["net.minecraft.world.item.TieredItem", "net.minecraft.world.item.ProjectileWeaponItem", "net.minecraft.world.item.ShearsItem", "net.minecraft.world.item.FishingRodItem", "net.minecraft.world.item.TridentItem"]
+#Disabled tools by resource location pattern (regex).
+disabledToolsID = ["minecraft:shield"]
+#Disabled tools by fully qualified class name.
+disabledToolsClass = []
+#Per-class Z rotation in degrees, formatted as "fully.qualified.ClassName:degrees".
+toolOrientation = ["net.minecraft.world.item.DiggerItem:0", "net.minecraft.world.item.HoeItem:0", "net.minecraft.world.item.FishingRodItem:180", "net.minecraft.world.item.TridentItem:0", "net.minecraft.world.item.ProjectileWeaponItem:90"]
+#NBT keys stripped when comparing tool stacks (same as original).
+nbtCleaner = ["Damage", "Charged", "ChargedProjectiles"]
+#When true, enables the swimming / elytra / name-based rotation easter egg (former iChunUtil client flag, default on).
+easterEgg = false
+#Vanilla Back Tools hid back items when the cape skin part was on and a cloak texture existed (e.g. Mojang cape). Set true to show back tools anyway.
+showBackToolsWithCape = true
