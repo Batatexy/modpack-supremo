@@ -48,7 +48,7 @@ mouseSensitivity:0.34741784037558693
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["mod/punchy:resourcepacks/punchy","vanilla","mod_resources","eatinganimations_compat","moonlight:merged_pack","file/FreshAnimations_v1.10.4.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/LowOnFire 1.21.3.zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip","file/Alittle_Axolotl.zip","file/A Good Place Sample Pack.zip","file/FA+Player-v1.1.zip","file/Connected-Rocks 1.14-1.21.8 v1.1.1.zip","file/Connected-Paths 1.14-1.21.8 v2.1.1.zip","file/FarmingThemeLegendaryTooltipsRP_1.21.1_v1.0.1.zip"]
+resourcePacks:["mod/punchy:resourcepacks/punchy","vanilla","mod_resources","eatinganimations_compat","moonlight:merged_pack","file/FreshAnimations_v1.10.4.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/LowOnFire 1.21.3.zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip","file/Alittle_Axolotl.zip","file/FA+Player-v1.1.zip","file/FarmingThemeLegendaryTooltipsRP_1.21.1_v1.0.1.zip","fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -215,9 +215,10 @@ key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_focus_search:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_open_rename:key.keyboard.unknown
-key_key.parry.parry:key.keyboard.r
+key_key.parry.parry:key.mouse.right
 key_key.open_muffler_gui:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_key.weaponmaster_ydm.opengui:key.keyboard.v
 key_key.sophisticatedcore.sort:key.mouse.middle
 key_key.sophisticatedcore.transfer_to_storage:key.keyboard.unknown
 key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.unknown
@@ -266,6 +267,7 @@ key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
 key_key.presencefootsteps.settings:key.keyboard.f10
+key_key.firstperson.toggle:key.keyboard.f6
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.059602649006622516
 soundCategory_music:0.0
