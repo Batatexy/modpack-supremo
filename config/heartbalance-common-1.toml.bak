@@ -1,8 +1,10 @@
 #General settings
 [heartbalance]
 	#
-	#If true, then a player with full health walking into a heart will get it as an item (false will vanish)
-	allowPickup = false
+	#Chance for a kill to drop a half heart refill
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	lootHeartChances = 0.75
 	#
 	#Play sounds on heart pickup
 	soundOnUse = true
@@ -14,8 +16,3 @@
 	# Default: 0
 	# Range: -9 ~ 90
 	spawnHeartOffset = 0
-	#
-	#Chance for a kill to drop a half heart refill
-	# Default: 0.1
-	# Range: 0.0 ~ 1.0
-	lootHeartChances = 0.75
