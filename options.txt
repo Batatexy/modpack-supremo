@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:4
+renderDistance:8
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -218,7 +218,7 @@ key_key.integrateddynamics.logic_programmer_open_rename:key.keyboard.unknown
 key_key.parry.parry:key.mouse.right
 key_key.open_muffler_gui:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
-key_key.weaponmaster_ydm.opengui:key.keyboard.v
+key_key.weaponmaster_ydm.opengui:key.keyboard.semicolon
 key_key.sophisticatedcore.sort:key.mouse.middle
 key_key.sophisticatedcore.transfer_to_storage:key.keyboard.unknown
 key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.unknown
@@ -273,8 +273,8 @@ key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.left.shift
-key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
