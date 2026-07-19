@@ -242,6 +242,18 @@ key_key.tempad.shortcut:key.keyboard.unknown
 key_key.tempad.macro:key.keyboard.unknown
 key_key.tempad.new_location:key.keyboard.unknown
 key_key.tempad.travel_timeline:key.keyboard.unknown
+key_Change mode key:key.keyboard.g
+key_Fly Key:key.keyboard.f
+key_BlackList View Key:key.keyboard.x
+key_Vertical Key:key.keyboard.k
+key_Save move Key:key.keyboard.l
+key_BlackList Key:key.keyboard.j
+key_Streak Key:key.keyboard.v
+key_Armor Key:key.keyboard.m
+key_Boots Key:key.keyboard.b
+key_Leggings Key:key.keyboard.n
+key_ALT Key:key.keyboard.left.alt
+key_key.industrialupgrade.open_intro:key.keyboard.i
 key_key.oritech.augment_screen:key.keyboard.unknown
 key_key.backpacked.open_backpack:key.keyboard.b
 key_key.backpacked.open_management:key.keyboard.unknown
@@ -261,8 +273,8 @@ key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.left.shift
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down

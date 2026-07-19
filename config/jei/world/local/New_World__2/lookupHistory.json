@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"industrialupgrade:basemachine3/research_table_space"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"backpacked:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"supplementaries:ash"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kaleidoscope_cookery:pan_seared_knight_steak"},"type":"item_stack","bookmarkType":"INGREDIENT"},
