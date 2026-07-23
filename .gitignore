@@ -27,3 +27,5 @@ config/rare_ice.properties
 options.txt
 config/jei/world/*
 config/shouldersurfing-client.toml
+config/jei/ingredient-list-mod-sort-order.ini
+config/sound_physics_remastered/sound_rates.properties
