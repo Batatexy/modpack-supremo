@@ -126,13 +126,13 @@
 
 # Cosmetic related properties
 [cosmetics]
-	# The default cosmetic (model) of the backpack. This should generally be a backpack
-	# that is unlocked by default
-	defaultCosmetic = "backpacked:vintage"
 	# If enabled, prevents backpacks from being customised. This will remove the
 	# customise button from the backpack inventory
 	# Valid values: true, false
-	disableCustomisation = false
+	disableCustomisation = true
+	# The default cosmetic (model) of the backpack. This should generally be a backpack
+	# that is unlocked by default
+	defaultCosmetic = "backpacked:vintage"
 	# Allows every player to use any backpack cosmetic variant without needing to
 	# complete the challenges. Side note, any progress to a challenge will not be
 	# tracked while enabled.

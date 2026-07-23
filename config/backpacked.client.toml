@@ -1,6 +1,6 @@
 # If enabled, hides the config button from the backpack screen
 # Valid values: true, false
-hideConfigButton = false
+hideConfigButton = true
 # Determines how unlockable slots are displayed and interactions are handled. This
 # option can be changed directly in the backpack inventory GUI.
 # 

@@ -25,3 +25,5 @@ config/fabric/indigo-renderer.properties
 config/oculus.properties
 config/rare_ice.properties
 options.txt
+config/jei/world/*
+config/shouldersurfing-client.toml

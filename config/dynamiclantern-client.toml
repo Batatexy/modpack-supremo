@@ -7,7 +7,7 @@ enablePhysics = true
 # Range: 0.0 ~ 3.0
 bounciness = 1.0
 #Render the lantern on the left side of the waist.
-leftSide = true
+leftSide = false
 #Render the lantern closer to the back of the waist.
 backLantern = true
 #Make Iris/Oculus see a Curios light-emitting waist item as the offhand item for shader held-item lighting.
