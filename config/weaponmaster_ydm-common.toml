@@ -40,7 +40,7 @@
 	#Body part attachment to a slot
 	attachment = "1-body,2-body,3-body,4-body,5-body,6-body,7-body,8-body,9-body,shield-body,banner-head,offhand-lleg,quiver-body"
 	#Which active slot and equipment should move the item model away
-	slot_mover = "none,chest;z;+_none,chest;z;+_none,chest,1;x;-_none,chest,2;x;+_none,chest;x;-_none,chest;x;+_none,chest;z;+_none,chest;z;+_none,chest;x;+_none;z;-_none;z;-_none,legs,4,6;x;+_none;z;+"
+	slot_mover = "none,chest;z;+_none,chest;z;+_none,chest,1;x;-_none,chest,2;x;+_none,chest;x;-_none,chest;x;+_none,chest;z;+_none,chest,7;x;+_none,chest,8,7;x;+_none;z;-_none;z;-_none,legs,4,6;x;+_none;z;+"
 	#Players can hide items with the toggle settings
 	canhideitems = true
 	#Players can change the position and rotation of the displayed items
@@ -150,7 +150,7 @@
 		#x position9
 		# Default: 32
 		# Range: > -2147483648
-		x_position9 = -13
+		x_position9 = -12
 		#y position10
 		# Default: -20
 		# Range: > -2147483648
@@ -183,11 +183,11 @@
 		#y position13
 		# Default: -24
 		# Range: > -2147483648
-		y_position13 = 33
+		y_position13 = -1
 		#z position14
 		# Default: 0
 		# Range: > -2147483648
-		z_position14 = -97
+		z_position14 = 52
 		#x rotation12
 		# Default: 0
 		# Range: > -2147483648
@@ -195,11 +195,11 @@
 		#y rotation13
 		# Default: -90
 		# Range: > -2147483648
-		y_rotation13 = -90
+		y_rotation13 = 180
 		#z rotation14
 		# Default: -30
 		# Range: > -2147483648
-		z_rotationn14 = -30
+		z_rotationn14 = 31
 		#scale4
 		# Default: 0
 		# Range: > -100
@@ -208,15 +208,15 @@
 		#x position15
 		# Default: 31
 		# Range: > -2147483648
-		x_position15 = 44
+		x_position15 = 11
 		#y position16
 		# Default: -24
 		# Range: > -2147483648
-		y_position16 = 33
+		y_position16 = -1
 		#z position17
 		# Default: 0
 		# Range: > -2147483648
-		z_position17 = -97
+		z_position17 = 20
 		#x rotation15
 		# Default: 0
 		# Range: > -2147483648
@@ -224,11 +224,11 @@
 		#y rotation16
 		# Default: -90
 		# Range: > -2147483648
-		y_rotation16 = -90
+		y_rotation16 = 0
 		#z rotation17
 		# Default: -30
 		# Range: > -2147483648
-		z_rotationn17 = -30
+		z_rotationn17 = 31
 		#scale5
 		# Default: 0
 		# Range: > -100
@@ -237,15 +237,15 @@
 		#x position18
 		# Default: -13
 		# Range: > -2147483648
-		x_position18 = -20
+		x_position18 = 42
 		#y position19
 		# Default: 34
 		# Range: > -2147483648
-		y_position19 = 33
+		y_position19 = 37
 		#z position20
 		# Default: -1
 		# Range: > -2147483648
-		z_position20 = -85
+		z_position20 = -3
 		#x rotation18
 		# Default: 0
 		# Range: > -2147483648
@@ -253,11 +253,11 @@
 		#y rotation19
 		# Default: 0
 		# Range: > -2147483648
-		y_rotation19 = 0
+		y_rotation19 = -90
 		#z rotation20
 		# Default: -35
 		# Range: > -2147483648
-		z_rotationn20 = -55
+		z_rotationn20 = -31
 		#scale6
 		# Default: 0
 		# Range: > -100
@@ -266,15 +266,15 @@
 		#x position21
 		# Default: 25
 		# Range: > -2147483648
-		x_position21 = 54
+		x_position21 = 10
 		#y position22
 		# Default: 20
 		# Range: > -2147483648
-		y_position22 = 9
+		y_position22 = 75
 		#z position23
 		# Default: 12
 		# Range: > -2147483648
-		z_position23 = -82
+		z_position23 = -18
 		#x rotation21
 		# Default: 0
 		# Range: > -2147483648
@@ -282,11 +282,11 @@
 		#y rotation22
 		# Default: 0
 		# Range: > -2147483648
-		y_rotation22 = 0
+		y_rotation22 = 90
 		#z rotation23
 		# Default: 45
 		# Range: > -2147483648
-		z_rotationn23 = 80
+		z_rotationn23 = 102
 		#scale7
 		# Default: 0
 		# Range: > -100
@@ -295,19 +295,19 @@
 		#x position24
 		# Default: 1
 		# Range: > -2147483648
-		x_position24 = 40
+		x_position24 = 42
 		#y position25
 		# Default: -14
 		# Range: > -2147483648
-		y_position25 = 32
+		y_position25 = 39
 		#z position26
 		# Default: 20
 		# Range: > -2147483648
-		z_position26 = -89
+		z_position26 = -2
 		#x rotation24
 		# Default: 0
 		# Range: > -2147483648
-		x_rotation24 = 14
+		x_rotation24 = 0
 		#y rotation25
 		# Default: -90
 		# Range: > -2147483648
@@ -315,7 +315,7 @@
 		#z rotation26
 		# Default: 20
 		# Range: > -2147483648
-		z_rotationn26 = 20
+		z_rotationn26 = -30
 		#scale8
 		# Default: 0
 		# Range: > -100

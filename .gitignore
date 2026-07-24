@@ -29,3 +29,4 @@ config/jei/world/*
 config/shouldersurfing-client.toml
 config/jei/ingredient-list-mod-sort-order.ini
 config/sound_physics_remastered/sound_rates.properties
+showdown/*

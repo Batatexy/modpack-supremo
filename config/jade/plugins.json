@@ -99,6 +99,12 @@
   "gravestone": {
     "grave": true
   },
+  "iceandfire": {
+    "dragon_egg_entity": true,
+    "multipart": true,
+    "dragon_egg_block": true,
+    "dragon": true
+  },
   "balm": {
     "jade": true
   },

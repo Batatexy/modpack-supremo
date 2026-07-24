@@ -230,7 +230,7 @@
 		armor_render_offset = -1.0
 		#How quivers should render onto players
 		#Allowed Values: HIDDEN, BACK, HIP, THIGH
-		render_mode = "THIGH"
+		render_mode = "BACK"
 		#How skeleton with quivers should render it
 		#Allowed Values: HIDDEN, BACK, HIP, THIGH
 		skeleton_render_mode = "THIGH"
